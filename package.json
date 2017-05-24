@@ -41,7 +41,7 @@
   },
   "dependencies": {
     "bluebird": "^3.0.0",
-    "level": "^1.4.0",
+    "level": "1.5.0",
     "lodash": "^4.15.0",
     "mkdirp": "^0.5.1",
     "source-list-map": "^0.1.6",
